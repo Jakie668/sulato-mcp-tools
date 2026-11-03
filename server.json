@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.Jakie668/sulato-business-tools",
+  "title": "Sulato Business Tools",
+  "description": "Free VAT, pricing, quote, VietQR and referral commission tools for Vietnamese businesses.",
+  "version": "1.0.0",
+  "websiteUrl": "https://sulatobiz.com/ket-noi-ai",
+  "repository": {
+    "url": "https://github.com/Jakie668/sulato-mcp-tools",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://sulatobiz.com/mcp"
+    }
+  ]
+}

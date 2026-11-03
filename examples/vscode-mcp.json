@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "sulato": {
+      "type": "http",
+      "url": "https://sulatobiz.com/mcp"
+    }
+  }
+}
