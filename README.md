@@ -110,7 +110,7 @@ The full script, including a `tools/call` example, is [`examples/curl.sh`](examp
 - The server does not write request content to application logs.
 - No account, no sign-in, free to use.
 
-Terms and privacy: https://sulatobiz.com/dieu-khoan
+Privacy policy: https://sulatobiz.com/chinh-sach-rieng-tu · Terms of service: https://sulatobiz.com/dieu-khoan
 
 ## About
 

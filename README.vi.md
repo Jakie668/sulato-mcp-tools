@@ -110,7 +110,7 @@ Kịch bản đầy đủ, có thêm ví dụ `tools/call`, nằm ở [`examples
 - Máy chủ không ghi nội dung yêu cầu vào log ứng dụng.
 - Không cần tài khoản, không cần đăng nhập, dùng miễn phí.
 
-Điều khoản và quyền riêng tư: https://sulatobiz.com/dieu-khoan
+Chính sách riêng tư: https://sulatobiz.com/chinh-sach-rieng-tu · Điều khoản dịch vụ: https://sulatobiz.com/dieu-khoan
 
 ## Giới thiệu
 
